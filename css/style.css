@@ -1,0 +1,87 @@
+.start {
+	margin-top: 72px;
+	margin-left: 139px;
+	color: #5863F8;
+}
+.satauri {
+	margin-left: 139px;
+	width: 465px;
+	height: 115px;
+}
+.satauri1 {
+	color: black;
+	font-size: 42px;
+}
+.float-l {
+	float: left;
+}
+.margin16 {
+	margin-left: 16px;
+}
+.qva {
+	margin-left: 139px;
+}
+/*boxebi*/
+.box {
+	width: 352px;
+	height: 142px;
+	background-color: #F8F8F8;
+	margin-left: 139px;
+	float: left;
+}
+.box1 {
+	width: 352px;
+	height: 142px;
+	background-color: #F8F8F8;
+	margin-left: 20px;
+	float: left;
+}
+.satauri2 {
+	font-size: 14px;
+	color: #5863F8;
+	padding-left: 120px;
+	padding-top: 23px;
+}
+.satauri3 {
+	font-size: 18px;
+	color: black;
+	margin-top: 5px;
+	padding-left: 80px;
+}
+.box3 {
+	width: 260px;
+	height: 42px;
+	background-color: #F8F8F8;
+	margin-left: 55px;
+	margin-top: 10px;
+}
+.seqcia {
+	width: 1093px;
+	height: 450px;
+	margin-top: 145px;
+	margin-left: 139px;
+}
+.margini {
+	margin-left: 16px;
+}
+.margini2 {
+	margin-left: 16px
+}
+.boxdabla {
+	width: 352px;
+	height: 142px;
+	background-color: #F8F8F8;
+	float: left;
+}
+.boxdabla2 {
+	width: 352px;
+	height: 142px;
+	background-color: #F8F8F8;
+	float: left;
+	margin-left: 18px;
+}
+
+
+
+
+
