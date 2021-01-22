@@ -7,10 +7,12 @@
 	margin-left: 139px;
 	width: 465px;
 	height: 115px;
+	font-family: "Arial GEO Bold", sans-serif;
 }
 .satauri1 {
 	color: black;
 	font-size: 42px;
+	font-family: "Arial GEO Bold", sans-serif;
 }
 .float-l {
 	float: left;
@@ -41,12 +43,14 @@
 	color: #5863F8;
 	padding-left: 120px;
 	padding-top: 23px;
+	font-family: "Arial GEO Bold", sans-serif;
 }
 .satauri3 {
 	font-size: 18px;
 	color: black;
 	margin-top: 5px;
 	padding-left: 80px;
+	font-family: "Arial GEO Bold", sans-serif;
 }
 .box3 {
 	width: 260px;
